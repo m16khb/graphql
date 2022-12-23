@@ -1,1 +1,1 @@
-#nestjs - graphql - typeorm 예제
+#nestjs - graphql - typeorm CRUD 예제
